@@ -1,0 +1,6 @@
+playwright
+pandas
+scikit-learn
+numpy
+black
+pylint
